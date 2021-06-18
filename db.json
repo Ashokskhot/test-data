@@ -1,8 +1,23 @@
 {
     "posts": [
-      { "id": 1, "title": "Post 1", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!" },
-      { "id": 2, "title": "Post 2", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!" },
-      { "id": 3, "title": "Post 3", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!" }
+      {
+        "id": 1,
+        "title": "Post 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!",
+        "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!",
+        "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio itaque, provident animi deleniti, perferendis voluptatem quae mollitia vitae, cumque recusandae obcaecati eius quaerat rem repellat dolorem ducimus perspiciatis deserunt dignissimos!",
+        "image": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+      }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
